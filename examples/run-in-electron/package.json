@@ -16,7 +16,7 @@
   "license": "MIT",
   "devDependencies": {
     "electron": "~1.6.11",
-    "electron-rebuild": "^1.5.11",
+    "electron-rebuild": "^2.0.3",
     "ipfs": "ipfs/js-ipfs"
   }
 }
